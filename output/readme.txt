@@ -1,0 +1,1 @@
+This folder is the destination of your output video no  audio included
