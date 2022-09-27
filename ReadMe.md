@@ -1,6 +1,7 @@
 This program  developed by Khali Della3a Studio.
 This software is open source and is for recording the webcam with multiple features.
-It is recommended for low end pc because it is a lightweight software .
+It is recommended for low end pc because it is a lightweight software .co
+To use the source code you need to install some modules and they are : OpenCV_Nmpy_PyQt5_ CVzone_TensorFlow.
 The "exe" version it will be published as soon as possible.
 If you did some money transaction to use this software you have been scammed. 
 Source code: https://github.com/Khali-Della3a/CamScope.
